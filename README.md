@@ -1,7 +1,6 @@
-https://pbs.twimg.com/profile_banners/1150245619899879424/1656591470/1500x500
 ### Hi there 👋, I'm Razibul Islam
 #### I am a web developer
-![I am a web developer]
+![I am a web developer](https://pbs.twimg.com/profile_banners/1150245619899879424/1656591470/1500x500)
 
 i am learning web development from programming hero.
 
